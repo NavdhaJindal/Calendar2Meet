@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Calendar 2 Meet",
+  "version": "1.0",
+  "host_permissions": [
+    "https://developer.chrome.com/*"
+  ],
+    "action": {
+        "default_icon": "calendar-icon.png",
+        "default_popup": "popup.html"
+  }
+}
